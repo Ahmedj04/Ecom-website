@@ -26,3 +26,10 @@ body {
     )
     rgb(var(--background-start-rgb));
 } */
+
+.bg-custom-brown{
+  background-color: #EAE7E3;
+}
+.hover\:bg-custom-hover-brown:hover {
+  background-color:  #EAE7E3;
+}
