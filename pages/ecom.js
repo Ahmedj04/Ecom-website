@@ -22,7 +22,7 @@ function Ecom() {
                 <div className={`absolute inset-y-0 left-0 w-8/12 bg-custom-brown p-4 transform transition-transform duration-1000 ease-in-out ${menu === 1 ? 'translate-x-0 delay-300' : '-translate-x-full'}`}>
                     <div className='flex justify-between'>
                         <div className=' inline-block'>
-                            <a><img className='w-28' src='https://learts-demo.myshopify.com/cdn/shop/files/logo-2_225x.png?v=1613704039'></img></a>
+                            <a><img className='w-28' src='./logo.png'></img></a>
                         </div>
                         <button onClick={() => setMenu(0)}><AiOutlineClose /></button>
                     </div>

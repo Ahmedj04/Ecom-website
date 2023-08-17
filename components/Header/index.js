@@ -22,8 +22,8 @@ function Header({setMenu}) {
 
                 {/* logo */}
                 <div className='px-3 lg:w-5/12'>
-                    <div className='py-5'>
-                        <a><img className='w-24 md:w-32 lg:w-36' src='https://learts-demo.myshopify.com/cdn/shop/files/logo-2_225x.png?v=1613704039'></img></a>
+                    <div className='py-5 lg:pl-5'>
+                        <a><img className='w-28 md:w-32 lg:w-36' src='./logo.png'></img></a>
                     </div>
 
                 </div>
